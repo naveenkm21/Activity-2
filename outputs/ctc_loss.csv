@@ -1,0 +1,4 @@
+transcript,labels U,-log P(y|x),per label
+verbatim (with repetitions),574,86.4,0.151
+intended (fluent),564,156.3,0.277
+wav2vec2-base greedy output,567,31.5,0.056
